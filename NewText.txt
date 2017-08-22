@@ -1,4 +1,8 @@
 hi
 hii
 hello
+<<<<<<< HEAD
+welcome Vighnesh
+=======
 welcome
+>>>>>>> 33e3e75d8ccf6f532dba04a8bf29950af1da3f1f
